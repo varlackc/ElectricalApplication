@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
+//Electrical application
 namespace ElectricalApplication.Controllers
 {
     public class HomeController : Controller
