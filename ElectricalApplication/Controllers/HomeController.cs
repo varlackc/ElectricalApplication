@@ -23,6 +23,7 @@ namespace ElectricalApplication.Controllers
             return View();
         }
 
+        // Contact section
         public ActionResult Contact()
         {
             ViewBag.Message = "Your contact page.";
