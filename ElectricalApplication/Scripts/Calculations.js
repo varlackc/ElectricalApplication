@@ -13,3 +13,5 @@
 //Trigonometric Identities
 
 //Kirchoff Rules
+
+//Kinematics
