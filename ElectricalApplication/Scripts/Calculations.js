@@ -7,3 +7,5 @@
 //Ohms Law
 
 //Quadratic Formula
+
+//Distance Formula
