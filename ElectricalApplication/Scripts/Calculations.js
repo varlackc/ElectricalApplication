@@ -14,4 +14,6 @@
 
 //Kirchoff Rules
 
+//Statics
+
 //Kinematics
