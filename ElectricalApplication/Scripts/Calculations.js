@@ -11,3 +11,5 @@
 //Distance Formula
 
 //Trigonometric Identities
+
+//Kirchoff Rules
