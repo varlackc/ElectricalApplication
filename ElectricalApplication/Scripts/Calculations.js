@@ -9,3 +9,5 @@
 //Quadratic Formula
 
 //Distance Formula
+
+//Trigonometric Identities
