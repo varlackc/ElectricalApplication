@@ -11,6 +11,7 @@ var Amperage = 0;
 var Power = 0;
 var Energy = 0;
 var Temperature = 0;
+var Frequency = 0; 
 
 //Ohms Law
 
@@ -20,9 +21,14 @@ var Temperature = 0;
 
 //calculate power
 
+
 //Quadratic Formula
 
 //Distance Formula
+
+//2D Distance
+
+//3D distance
 
 //Trigonometric Identities
 
