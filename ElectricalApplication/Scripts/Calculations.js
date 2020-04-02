@@ -15,6 +15,7 @@ var Temperature = 0;
 //Ohms Law
 
 //given resistance and voltage find amperage
+//given amperage and resistance find voltage. 
 
 //Quadratic Formula
 
