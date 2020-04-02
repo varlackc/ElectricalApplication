@@ -18,6 +18,8 @@ var Temperature = 0;
 //given amperage and resistance find voltage. 
 //given amperage and voltage find resistance
 
+//calculate power
+
 //Quadratic Formula
 
 //Distance Formula
