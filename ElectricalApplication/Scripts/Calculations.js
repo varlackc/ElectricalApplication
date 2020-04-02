@@ -10,6 +10,7 @@ var Voltage = 0;
 var Amperage = 0;
 var Power = 0;
 var Energy = 0;
+var Temperature = 0;
 
 //Ohms Law
 
