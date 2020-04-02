@@ -4,7 +4,7 @@
  *  This program performs the needed front end calculations
  ************************************************************************************************************/
 
-//
+// Declare variables
 
 //Ohms Law
 
