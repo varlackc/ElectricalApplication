@@ -33,6 +33,8 @@ var Frequency = 0;
 
 //Trigonometric Identities
 
+//law of sine
+
 //Kirchoff Rules
 
 //Statics
