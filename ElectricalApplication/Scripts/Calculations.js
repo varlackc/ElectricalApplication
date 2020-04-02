@@ -20,7 +20,7 @@ var Frequency = 0;
 //given amperage and voltage find resistance
 
 //calculate power
-
+//given voltage and amparage
 
 //Quadratic Formula
 
