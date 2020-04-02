@@ -16,6 +16,7 @@ var Temperature = 0;
 
 //given resistance and voltage find amperage
 //given amperage and resistance find voltage. 
+//given amperage and voltage find resistance
 
 //Quadratic Formula
 
