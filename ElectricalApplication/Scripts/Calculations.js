@@ -8,6 +8,7 @@
 var Resistance = 0;
 var Voltage = 0;
 var Amperage = 0;
+var Power = 0;
 
 //Ohms Law
 
