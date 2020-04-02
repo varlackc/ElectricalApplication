@@ -4,6 +4,8 @@
  *  This program performs the needed front end calculations
  ************************************************************************************************************/
 
+//
+
 //Ohms Law
 
 //Quadratic Formula
