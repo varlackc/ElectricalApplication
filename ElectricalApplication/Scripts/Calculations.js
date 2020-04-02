@@ -14,6 +14,8 @@ var Temperature = 0;
 
 //Ohms Law
 
+//given resistance and voltage find amperage
+
 //Quadratic Formula
 
 //Distance Formula
