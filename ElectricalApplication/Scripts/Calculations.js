@@ -12,10 +12,15 @@ var Power = 0;
 var Energy = 0;
 var Temperature = 0;
 var Frequency = 0; 
+var pi = 3.14159265359;
 
 //Ohms Law V = IR
 
 //given resistance and voltage find amperage -- V/R = I
+var GivenResistanceAndVoltageFindAmperage = function (resistance, voltage) {
+    var Amperage = voltage / resistance;
+    return Amperage;
+};
 
 //given amperage and resistance find voltage. -- V = IR
 
