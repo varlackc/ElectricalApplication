@@ -29,6 +29,10 @@ var AmperageResistanceFindVoltage = function (amperage, resistance) {
 };
 
 //given amperage and voltage find resistance -- V/I = R
+var AmperageVoltageFindResistance = function (amperage, voltage) {
+    var resistance = voltage / amperage;
+    return resistance;
+};
 
 //calculate power
 //Power given voltage and amperage P = VI
