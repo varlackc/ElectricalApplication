@@ -16,6 +16,7 @@ var Frequency = 0;
 //Ohms Law
 
 //given resistance and voltage find amperage
+
 //given amperage and resistance find voltage. 
 //given amperage and voltage find resistance
 //amparage given power an voltage
