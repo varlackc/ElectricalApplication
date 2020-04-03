@@ -13,11 +13,12 @@ var Energy = 0;
 var Temperature = 0;
 var Frequency = 0; 
 
-//Ohms Law
+//Ohms Law V = IR
 
-//given resistance and voltage find amperage
+//given resistance and voltage find amperage -- V/R = I
 
 //given amperage and resistance find voltage. 
+
 //given amperage and voltage find resistance
 //amparage given power an voltage
 
