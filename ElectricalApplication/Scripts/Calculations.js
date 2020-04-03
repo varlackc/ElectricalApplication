@@ -41,7 +41,11 @@ var VoltageAmperageFindPower = function (voltage, amperage) {
     return power;
 };
 
-//amparage given power an voltage P/I = V
+//amparage given power an voltage P/V = I
+var PowerVoltageFindAmperage = function (power, voltage) {
+    var amperage = power / voltage;
+    return amperage;
+};
 
 //voltage given power and amperage V = P/I
 
