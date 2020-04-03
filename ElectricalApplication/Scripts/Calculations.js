@@ -17,12 +17,15 @@ var pi = 3.14159265359;
 //Ohms Law V = IR
 
 //given resistance and voltage find amperage -- V/R = I
-var GivenResistanceAndVoltageFindAmperage = function (resistance, voltage) {
+var ResistanceVoltageFindAmperage = function (resistance, voltage) {
     var Amperage = voltage / resistance;
     return Amperage;
 };
 
 //given amperage and resistance find voltage. -- V = IR
+var AmperageResistanceFindVoltage = function (amperage, resistance) {
+
+};
 
 //given amperage and voltage find resistance -- V/I = R
 
