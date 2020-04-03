@@ -36,6 +36,8 @@ var Frequency = 0;
 
 //3D distance
 
+//Pythagorean Identity -- X^2 + Y^2 = Z^2
+
 //Trigonometric Identities
 
 //law of sine
