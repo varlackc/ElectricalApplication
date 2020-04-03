@@ -28,9 +28,6 @@ var Frequency = 0;
 
 //voltage given power and amperage V = P/I
 
-//calculate power
-//given voltage and amparage
-
 //Quadratic Formula
 
 //Distance Formula
