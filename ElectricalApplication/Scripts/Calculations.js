@@ -17,7 +17,7 @@ var Frequency = 0;
 
 //given resistance and voltage find amperage -- V/R = I
 
-//given amperage and resistance find voltage. 
+//given amperage and resistance find voltage. -- V/I = R
 
 //given amperage and voltage find resistance
 //amparage given power an voltage
