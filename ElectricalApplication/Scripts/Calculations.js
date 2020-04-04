@@ -63,6 +63,11 @@ var DistanceFormula2D = function (x1, y1, x2, y2) {
 };
 
 //3D distance
+var DistanceFormula3D = function (x1, y1, x2, y2) {
+
+    return;
+};
+
 
 //Pythagorean Identity -- X^2 + Y^2 = Z^2
 
