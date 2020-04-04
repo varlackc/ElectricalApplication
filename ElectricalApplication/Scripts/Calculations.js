@@ -56,8 +56,11 @@ var PowerAmperageFindVoltage = function (power, amperage) {
 //Quadratic Formula
 
 //Distance Formula
-
 //2D Distance
+var DistanceFormula2D = function (x1, y1, x2, y2) {
+
+    return;
+};
 
 //3D distance
 
