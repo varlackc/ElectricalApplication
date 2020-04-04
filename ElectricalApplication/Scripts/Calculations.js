@@ -63,7 +63,7 @@ var DistanceFormula2D = function (x1, y1, x2, y2) {
 };
 
 //3D distance
-var DistanceFormula3D = function (x1, y1, x2, y2) {
+var DistanceFormula3D = function (x1, y1, z1, x2, y2, z2) {
 
     return;
 };
