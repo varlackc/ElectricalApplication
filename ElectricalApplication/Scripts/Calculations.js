@@ -48,8 +48,8 @@ var PowerVoltageFindAmperage = function (power, voltage) {
 };
 
 //voltage given power and amperage V = P/I
-var PowerAmperageFindVoltage = function () {
-
+var PowerAmperageFindVoltage = function (power, amperage) {
+    
 };
 
 //Quadratic Formula
