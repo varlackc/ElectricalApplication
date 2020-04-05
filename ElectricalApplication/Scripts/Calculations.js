@@ -77,7 +77,7 @@ var FindHypothenuse = function (x, y) {
 
 //Trigonometric Identities
 var TrigonometricIdentity1 = function () {
-
+    return;
 };
 
 //law of sine
