@@ -85,6 +85,8 @@ var LawofSine = function () {
     return;
 };
 
+//law of cosine
+
 //Kirchoff Rules
 
 //Statics
