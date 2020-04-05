@@ -102,7 +102,7 @@ var Median = function () {
 };
 
 var Mode = function () {
-}
+};
 
 
 //Kinematics
