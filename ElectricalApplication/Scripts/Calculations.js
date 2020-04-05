@@ -81,6 +81,9 @@ var TrigonometricIdentity1 = function () {
 };
 
 //law of sine
+var LawofSine = function () {
+
+};
 
 //Kirchoff Rules
 
