@@ -101,6 +101,9 @@ var Median = function () {
     return;
 };
 
+var Mode = function () {
+}
+
 
 //Kinematics
 
