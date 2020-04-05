@@ -93,6 +93,9 @@ var LawOfCosine = function () {
 //Kirchoff Rules
 
 //Statics
+var Mean = function () {
+    return;
+};
 
 //Kinematics
 
