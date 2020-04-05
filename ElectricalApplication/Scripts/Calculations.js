@@ -86,7 +86,9 @@ var LawOfSine = function () {
 };
 
 //law of cosine
-var LawOfCosine = function () { };
+var LawOfCosine = function () {
+    return;
+};
 
 //Kirchoff Rules
 
