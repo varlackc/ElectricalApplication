@@ -97,7 +97,9 @@ var Mean = function () {
     return;
 };
 
-var Median = function () { };
+var Median = function () {
+    return;
+};
 
 
 //Kinematics
