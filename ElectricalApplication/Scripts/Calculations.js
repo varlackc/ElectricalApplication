@@ -115,5 +115,6 @@ var Mode = function () {
 //Kinematics
 //find final velocity
 //find final position
+//find acceleration
 
 //Circuit Analysis
