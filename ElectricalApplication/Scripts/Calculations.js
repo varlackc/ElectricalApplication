@@ -107,6 +107,7 @@ var Median = function () {
 };
 
 var Mode = function () {
+    var result = 0;
     return;
 };
 
