@@ -116,5 +116,6 @@ var Mode = function () {
 //find final velocity
 //find final position
 //find acceleration
+//find total energy of the system
 
 //Circuit Analysis
