@@ -97,6 +97,7 @@ var LawOfCosine = function () {
 
 //Statics
 var Mean = function () {
+    var result = 0;
     return;
 };
 
