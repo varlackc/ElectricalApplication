@@ -84,7 +84,7 @@ var TrigonometricIdentity1 = function () {
 //law of sine
 var LawOfSine = function () {
     var result = 0;
-    return;
+    return result;
 };
 
 //law of cosine
