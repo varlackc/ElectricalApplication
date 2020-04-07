@@ -119,10 +119,12 @@ var StandardDeviation = function () {
 };
 
 //Kinematics
-//find final velocity
+//find final velocity Vf = V0 + (A)*(T)
 //find final position
 //find acceleration
 //find total energy of the system
 // find momentum
+
+//distance d = v*t
 
 //Circuit Analysis
