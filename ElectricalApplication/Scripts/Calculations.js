@@ -104,7 +104,7 @@ var Mean = function () {
 //Mean
 var Median = function () {
     var result = 0;
-    return;
+    return result;
 };
 //Mode
 var Mode = function () {
