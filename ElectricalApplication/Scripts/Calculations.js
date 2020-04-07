@@ -109,7 +109,7 @@ var Median = function () {
 //Mode
 var Mode = function () {
     var result = 0;
-    return;
+    return result;
 };
 
 //Standard Deviation
