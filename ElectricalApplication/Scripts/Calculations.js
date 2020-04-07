@@ -114,7 +114,7 @@ var Mode = function () {
 
 //Standard Deviation
 var StandardDeviation = function () {
-
+    return;
 };
 
 //Kinematics
