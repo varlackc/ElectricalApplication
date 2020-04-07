@@ -114,6 +114,7 @@ var Mode = function () {
 
 //Standard Deviation
 var StandardDeviation = function () {
+    var result = 0;
     return;
 };
 
