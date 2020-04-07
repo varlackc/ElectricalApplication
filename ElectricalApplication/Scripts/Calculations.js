@@ -101,7 +101,7 @@ var Mean = function () {
     var result = 0;
     return;
 };
-
+//Mean
 var Median = function () {
     var result = 0;
     return;
