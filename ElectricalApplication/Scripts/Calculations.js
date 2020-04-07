@@ -99,7 +99,7 @@ var LawOfCosine = function () {
 //Mean
 var Mean = function () {
     var result = 0;
-    return;
+    return result;
 };
 //Mean
 var Median = function () {
