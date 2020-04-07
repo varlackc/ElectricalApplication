@@ -112,6 +112,7 @@ var Mode = function () {
     return;
 };
 
+//Standard Deviation
 
 //Kinematics
 //find final velocity
