@@ -90,7 +90,7 @@ var LawOfSine = function () {
 //law of cosine
 var LawOfCosine = function () {
     var result = 0;
-    return;
+    return result;
 };
 
 //Kirchoff Rules
