@@ -107,7 +107,7 @@ var Median = function (ArrayValue) {
     return result;
 };
 //Mode
-var Mode = function () {
+var Mode = function (ArrayValue) {
     var result = 0;
     return result;
 };
