@@ -121,7 +121,7 @@ var StandardDeviation = function () {
 //Kinematics
 //find final velocity Vf = V0 + (A)*(T)
 var VelocityFinalGivenV0AT = function () {
-
+    return;
 };
 //find final position
 //find acceleration
