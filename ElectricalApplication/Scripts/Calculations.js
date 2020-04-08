@@ -131,5 +131,7 @@ var VelocityFinalGivenV0AT = function (V0, A, T) {
 // find momentum
 
 //distance d = v*t
-var DistanceGivenVT
+var DistanceGivenVT = function () {
+
+};
 //Circuit Analysis
