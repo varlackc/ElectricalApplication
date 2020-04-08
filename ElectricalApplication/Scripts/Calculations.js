@@ -120,7 +120,9 @@ var StandardDeviation = function () {
 
 //Kinematics
 //find final velocity Vf = V0 + (A)*(T)
+var VelocityFinalGivenV0AT = function () {
 
+};
 //find final position
 //find acceleration
 //find total energy of the system
