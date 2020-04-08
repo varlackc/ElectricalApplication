@@ -113,7 +113,7 @@ var Mode = function () {
 };
 
 //Standard Deviation
-var StandardDeviation = function () {
+var StandardDeviation = function (ArrayValue) {
     var result = 0;
     return result;
 };
@@ -133,6 +133,6 @@ var VelocityFinalGivenV0AT = function (V0, A, T) {
 //distance d = v*t
 var DistanceGivenVT = function (V, T) {
     var result = V*T;
-    return;
+    return result;
 };
 //Circuit Analysis
