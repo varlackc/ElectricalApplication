@@ -132,6 +132,6 @@ var VelocityFinalGivenV0AT = function (V0, A, T) {
 
 //distance d = v*t
 var DistanceGivenVT = function () {
-
+    return;
 };
 //Circuit Analysis
