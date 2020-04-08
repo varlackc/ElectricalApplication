@@ -102,7 +102,7 @@ var Mean = function (ArrayValue) {
     return result;
 };
 //Mean
-var Median = function () {
+var Median = function (ArrayValue) {
     var result = 0;
     return result;
 };
