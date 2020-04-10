@@ -99,7 +99,9 @@ var LawOfCosine = function (a, b, c) {
 };
 
 //Kirchoff Rules 
-var KirchoffRule = function () { };
+var KirchoffRule = function () {
+
+};
 
 //Statics
 //Mean
