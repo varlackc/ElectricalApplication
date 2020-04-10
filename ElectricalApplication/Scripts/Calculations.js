@@ -5,6 +5,8 @@
  *  
  *  Each of the calculations are separated by cathegory
  *  Some of the cathegories include, mathematics, physics, etc. 
+ *  
+ *  Such calculations will be used to find the given values. 
  ************************************************************************************************************/
 
 // Declare variables
