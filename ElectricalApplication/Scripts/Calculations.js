@@ -4,7 +4,7 @@
  *  This program performs the needed front end calculations
  *  
  *  Each of the calculations are separated by cathegory
- *  
+ *  Some of the cathegories include, mathematics, physics, etc. 
  ************************************************************************************************************/
 
 // Declare variables
