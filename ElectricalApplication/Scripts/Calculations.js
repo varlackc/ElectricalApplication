@@ -101,7 +101,7 @@ var LawOfCosine = function (a, b, c) {
 //Kirchoff Rules 
 var KirchoffRule = function () {
     var result = 0;
-    return;
+    return result;
 };
 
 //Statics
