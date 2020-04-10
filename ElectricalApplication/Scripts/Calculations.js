@@ -88,7 +88,7 @@ var LawOfSine = function () {
 };
 
 //law of cosine c^2 = a^2 + b^2 - 2ab cos(C)
-var LawOfCosine = function () {
+var LawOfCosine = function (a, b, c) {
     var result = 0;
     return result;
 };
