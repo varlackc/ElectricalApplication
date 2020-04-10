@@ -98,7 +98,8 @@ var LawOfCosine = function (a, b, c) {
     return result;
 };
 
-//Kirchoff Rules
+//Kirchoff Rules 
+var KirchoffRule = function () { };
 
 //Statics
 //Mean
