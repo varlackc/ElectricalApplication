@@ -2,6 +2,9 @@
  *  Calculation Section
  *
  *  This program performs the needed front end calculations
+ *  
+ *  Each of the calculations are separated by cathegory
+ *  
  ************************************************************************************************************/
 
 // Declare variables
