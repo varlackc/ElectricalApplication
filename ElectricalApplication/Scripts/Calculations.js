@@ -82,7 +82,7 @@ var TrigonometricIdentity1 = function () {
 };
 
 //law of sine
-var LawOfSine = function (a, b, c) {
+var LawOfSine = function (a, b, c, alpha, beta, gama) {
     var result = 0;
     return result;
 };
