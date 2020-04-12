@@ -107,6 +107,7 @@ var KirchoffRule = function () {
 //Statics
 //Mean
 var Mean = function (ArrayValue) {
+    var ArraySize = 0; 
     var result = 0;
     return result;
 };
