@@ -12,7 +12,7 @@
 // Declare variables
 var Resistance = 0; // this indicates the resistance of an electrical or electronic component
 var Voltage = 0; // Voltage of an electrical or electronic component
-var Amperage = 0;
+var Amperage = 0; // Amperage of an electrical or electronic component
 var Power = 0;
 var Energy = 0;
 var Temperature = 0;
