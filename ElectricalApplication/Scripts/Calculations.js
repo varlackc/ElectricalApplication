@@ -109,7 +109,7 @@ var KirchoffRule = function () {
 var Mean = function (ArrayValue) {
     var ArraySize = ArrayValue.Length(); 
     //add all of the elements
-    for () {
+    for (var i = 0; i < ArraySize; i++) {
         var Sum = ArrayValue[i];
     }
     var result = 0;
