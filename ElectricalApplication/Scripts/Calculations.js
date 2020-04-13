@@ -112,12 +112,14 @@ var Mean = function (ArrayValue) {
     for (var i = 0; i < ArraySize; i++) {
         Sum += ArrayValue[i];
     }
+    //Calculate Mean
     var result = Sum / ArraySize;
     return result;
 };
 //Mean
 var Median = function (ArrayValue) {
     var ArraySize = ArrayValue.Length();
+    //
     var result = 0;
     return result;
 };
