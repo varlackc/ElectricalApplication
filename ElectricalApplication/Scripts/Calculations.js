@@ -151,4 +151,5 @@ var DistanceGivenVT = function (V, T) {
     var result = V*T;
     return result;
 };
+
 //Circuit Analysis
