@@ -119,7 +119,7 @@ var Mean = function (ArrayValue) {
 //Mean
 var Median = function (ArrayValue) {
     var ArraySize = ArrayValue.Length();
-    //
+    //Calculate Median
     var result = 0;
     return result;
 };
