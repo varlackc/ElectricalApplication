@@ -111,7 +111,7 @@ var Mean = function (ArrayValue) {
     var Sum = 0;
     //add all of the elements
     for (var i = 0; i < ArraySize; i++) {
-        Sum = ArrayValue[i];
+        Sum += ArrayValue[i];
     }
     var result = 0;
     return result;
