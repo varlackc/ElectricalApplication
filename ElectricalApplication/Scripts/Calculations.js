@@ -35,6 +35,7 @@ var AmperageResistanceFindVoltage = function (amperage, resistance) {
 };
 
 //given amperage and voltage find resistance -- V/I = R
+//Input Amperage and Voltage
 var AmperageVoltageFindResistance = function (amperage, voltage) {
     var resistance = voltage / amperage;
     return resistance;
