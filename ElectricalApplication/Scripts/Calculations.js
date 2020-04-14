@@ -20,7 +20,7 @@ var Frequency = 0;
 var pi = 3.14159265359;
 
 //Ohms Law V = IR
-//given resistance and voltage find amperage -- V/R = I
+// given resistance and voltage find amperage -- V/R = I
 // Inputs: Resistance and voltage
 var ResistanceVoltageFindAmperage = function (resistance, voltage) {
     var Amperage = voltage / resistance;
