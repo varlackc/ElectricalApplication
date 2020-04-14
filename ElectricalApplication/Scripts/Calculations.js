@@ -57,6 +57,7 @@ var PowerVoltageFindAmperage = function (power, voltage) {
 };
 
 //voltage given power and amperage V = P/I
+// Input: Power and Amperage
 var PowerAmperageFindVoltage = function (power, amperage) {
     var voltage = power / amperage;
     return voltage;
