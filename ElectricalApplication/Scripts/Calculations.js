@@ -100,7 +100,7 @@ var LawOfSine = function (a, b, c, alpha, beta, gama) {
     return result;
 };
 
-//law of cosine c^2 = a^2 + b^2 - 2ab cos(C)
+// law of cosine c^2 = a^2 + b^2 - 2ab cos(C)
 var LawOfCosine = function (a, b, c) {
     var result = 0;
     return result;
