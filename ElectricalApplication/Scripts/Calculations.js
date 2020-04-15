@@ -82,7 +82,7 @@ var DistanceFormula3D = function (x1, y1, z1, x2, y2, z2) {
 
 
 // Pythagorean Identity -- X^2 + Y^2 = Z^2 where x, Y and Z are rational numbers
-//
+// Inputs: X and Y 
 var FindHypothenuse = function (x, y) {
     var hypothenuse = sqrt(x*x + y*y);
     return hypothenuse;
