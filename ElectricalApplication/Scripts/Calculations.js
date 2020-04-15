@@ -94,7 +94,7 @@ var TrigonometricIdentity1 = function () {
     return identity;
 };
 
-//law of sine where a, b and c are sides, and alpha, beta and gama are angles
+// law of sine where a, b and c are sides, and alpha, beta and gama are angles
 var LawOfSine = function (a, b, c, alpha, beta, gama) {
     var result = 0;
     return result;
