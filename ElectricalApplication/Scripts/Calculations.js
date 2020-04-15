@@ -88,7 +88,7 @@ var FindHypothenuse = function (x, y) {
     return hypothenuse;
 };
 
-//Trigonometric Identities
+// Trigonometric Identities
 var TrigonometricIdentity1 = function () {
     var identity = 0;
     return identity;
