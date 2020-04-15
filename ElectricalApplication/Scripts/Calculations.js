@@ -133,7 +133,7 @@ var Median = function (ArrayValue) {
     var result = 0;
     return result;
 };
-//Mode
+// Mode
 var Mode = function (ArrayValue) {
     var result = 0;
     //calculate Mode
