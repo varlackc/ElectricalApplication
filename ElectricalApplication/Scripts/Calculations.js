@@ -113,7 +113,7 @@ var KirchoffRule = function () {
 };
 
 // Statics
-//Mean
+// Mean
 // Input: Value Array
 var Mean = function (ArrayValue) {
     var ArraySize = ArrayValue.Length(); 
