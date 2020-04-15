@@ -112,7 +112,7 @@ var KirchoffRule = function () {
     return result;
 };
 
-//Statics
+// Statics
 //Mean
 // Input: Value Array
 var Mean = function (ArrayValue) {
