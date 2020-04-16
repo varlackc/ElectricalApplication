@@ -143,7 +143,7 @@ var Mode = function (ArrayValue) {
 };
 
 // Standard Deviation
-// Input: Value Array
+// Input: An Array of Numbers
 var StandardDeviation = function (ArrayValue) {
     var result = 0;
     return result;
