@@ -163,7 +163,7 @@ var VelocityFinalGivenV0AT = function (V0, A, T) {
 // find momentum
 
 //distance d = v*t
-// Input: 
+// Input: Velocity as V, 
 var DistanceGivenVT = function (V, T) {
     var result = V*T;
     return result;
