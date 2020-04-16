@@ -151,6 +151,7 @@ var StandardDeviation = function (ArrayValue) {
 
 // Kinematics
 // find final velocity Vf = V0 + (A)*(T)
+// Input: 
 var VelocityFinalGivenV0AT = function (V0, A, T) {
     var result = V0 + A*T;
     return result;
