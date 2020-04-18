@@ -13,7 +13,7 @@
 var Resistance = 0; // this indicates the resistance of an electrical or electronic component
 var Voltage = 0; // Voltage of an electrical or electronic component
 var Amperage = 0; // Amperage of an electrical or electronic component
-var Power = 0;
+var Power = 0;  // Power produced or dicipated by an electronic component
 var Energy = 0;
 var Temperature = 0;
 var Frequency = 0; 
