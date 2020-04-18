@@ -16,7 +16,7 @@ var Amperage = 0; // Amperage of an electrical or electronic component
 var Power = 0;  // Power produced or dicipated by an electronic component
 var Energy = 0; // Energy 
 var Temperature = 0; // Temperature Parameter
-var Frequency = 0; 
+var Frequency = 0;  // Frequency
 var pi = 3.14159265359;
 
 // Ohms Law V = IR
