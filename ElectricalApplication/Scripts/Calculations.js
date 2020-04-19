@@ -159,7 +159,7 @@ var VelocityFinalGivenV0AT = function (V0, A, T) {
 
 // Find final position
 // Find acceleration
-// find total energy of the system
+// Find total energy of the system
 // find momentum
 
 // Distance d = v*t
