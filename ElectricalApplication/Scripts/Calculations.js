@@ -162,7 +162,7 @@ var VelocityFinalGivenV0AT = function (V0, A, T) {
 // find total energy of the system
 // find momentum
 
-// distance d = v*t
+// Distance d = v*t
 // Input: Velocity as V, Time as T
 var DistanceGivenVT = function (V, T) {
     var result = V*T;
