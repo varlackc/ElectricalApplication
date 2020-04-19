@@ -49,7 +49,7 @@ var VoltageAmperageFindPower = function (voltage, amperage) {
     return power;
 };
 
-// amparage given power an voltage P/V = I
+// Amparage given power an voltage P/V = I
 // Input: Power and Voltage
 var PowerVoltageFindAmperage = function (power, voltage) {
     var amperage = power / voltage;
@@ -122,7 +122,7 @@ var Mean = function (ArrayValue) {
     for (var i = 0; i < ArraySize; i++) {
         Sum += ArrayValue[i];
     }
-    //Calculate Mean
+    // Calculate Mean
     var result = Sum / ArraySize;
     return result;
 };
