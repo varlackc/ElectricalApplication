@@ -27,7 +27,7 @@ var ResistanceVoltageFindAmperage = function (resistance, voltage) {
     return Amperage;
 };
 
-// given amperage and resistance find voltage. -- V = IR
+// Given amperage and resistance find voltage. -- V = IR
 // Inputs: Amperage and Resistance
 var AmperageResistanceFindVoltage = function (amperage, resistance) {
     var voltage = amperage * resistance;
