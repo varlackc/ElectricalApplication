@@ -14,6 +14,7 @@ namespace ElectricalApplication.Controllers
         {
             return View();
         }
+        //----------------------
 
         //About section
         public ActionResult About()
