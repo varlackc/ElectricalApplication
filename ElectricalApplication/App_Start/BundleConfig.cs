@@ -3,6 +3,7 @@ using System.Web.Optimization;
 
 namespace ElectricalApplication
 {
+    // Include the files that will be added to all of the pages
     public class BundleConfig
     {
         // For more information on bundling, visit https://go.microsoft.com/fwlink/?LinkId=301862
