@@ -16,7 +16,7 @@ namespace ElectricalApplication.Controllers
         }
         //----------------------
 
-        // About section
+        // -- About section --
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
