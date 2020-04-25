@@ -9,7 +9,7 @@ namespace ElectricalApplication.Controllers
 {
     public class HomeController : Controller
     {
-        // main Page
+        // Main Page
         public ActionResult Index()
         {
             return View();
