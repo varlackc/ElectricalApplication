@@ -15,6 +15,5 @@ namespace ElectricalApplication.Controllers
             return View();
         }
         //----------------------
-
     }
 }
