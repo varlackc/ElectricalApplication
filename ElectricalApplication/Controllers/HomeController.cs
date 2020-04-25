@@ -25,7 +25,7 @@ namespace ElectricalApplication.Controllers
         }
         //---------------------
 
-        // Contact section
+        // -- Contact section --
         public ActionResult Contact()
         {
             ViewBag.Message = "Your contact page.";
