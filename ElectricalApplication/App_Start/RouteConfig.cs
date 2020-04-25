@@ -7,6 +7,7 @@ using System.Web.Routing;
 
 namespace ElectricalApplication
 {
+    // Configure the routing on the application, determine the default location 
     public class RouteConfig
     {
         public static void RegisterRoutes(RouteCollection routes)
