@@ -134,6 +134,7 @@ var Median = function (ArrayValue) {
     var result = 0;
     return result;
 };
+
 // Mode
 // Input: An Array of Numbers
 var Mode = function (ArrayValue) {
