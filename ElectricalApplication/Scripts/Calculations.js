@@ -125,6 +125,7 @@ var Mean = function (ArrayValue) {
     var result = Sum / ArraySize;
     return result;
 };
+
 // Median
 // Input: Array of Numbers
 var Median = function (ArrayValue) {
