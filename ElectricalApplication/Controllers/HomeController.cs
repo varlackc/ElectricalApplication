@@ -16,7 +16,7 @@ namespace ElectricalApplication.Controllers
         {
             // Read data from file
             //string path = System.AppDomain.CurrentDomain.BaseDirectory + "JSON\\TextFile1.txt";
-            string path = @"~/Scripts/TextFile1.txt";
+            string path = @"~/Scripts/json.json";
             var text = System.IO.File.ReadAllText(Server.MapPath(path));
             //Debug.WriteLine(path);
             //string text = System.IO.File.ReadAllText(path);
