@@ -15,8 +15,9 @@ namespace ElectricalApplication.Controllers
         public ActionResult Index()
         {
             // Read data from file
-            //string path = System.AppDomain.CurrentDomain.BaseDirectory + "JSON\\json.json";
-            string path = "JSON\\json.json";
+            //string path = System.AppDomain.CurrentDomain.BaseDirectory + "JSON\\TextFile1.txt";
+            //string path = "~/JSON/json.json";
+            var path = System.IO.File.ReadAllText(Server.MapPath(@"~/Scripts/TextFile1.txt"));
             Debug.WriteLine(path);
             string text = System.IO.File.ReadAllText(path);
 
