@@ -16,29 +16,26 @@ namespace ElectricalApplication.Controllers
         {
             // Read data from file
             //string path = System.AppDomain.CurrentDomain.BaseDirectory + "JSON\\TextFile1.txt";
-            //string path = "~/JSON/json.json";
-            var path = System.IO.File.ReadAllText(Server.MapPath(@"~/Scripts/TextFile1.txt"));
-            Debug.WriteLine(path);
-            string text = System.IO.File.ReadAllText(path);
+            string path = @"~/Scripts/TextFile1.txt";
+            var text = System.IO.File.ReadAllText(Server.MapPath(path));
+            //Debug.WriteLine(path);
+            //string text = System.IO.File.ReadAllText(path);
 
             // Get location
             // Console.WriteLine(System.IO.Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location));
-            Debug.WriteLine("\n--------------------------");
-            Debug.WriteLine(System.AppDomain.CurrentDomain.BaseDirectory);
-            Debug.WriteLine(System.Environment.CurrentDirectory);
-            Debug.WriteLine(System.IO.Directory.GetCurrentDirectory());
-            Debug.WriteLine(Environment.CurrentDirectory);
-            Debug.WriteLine("--------------------------\n");
+            
+            //Debug.WriteLine("\n--------------------------");
+            //Debug.WriteLine(System.AppDomain.CurrentDomain.BaseDirectory);
+            //Debug.WriteLine(System.Environment.CurrentDirectory);
+            //Debug.WriteLine(System.IO.Directory.GetCurrentDirectory());
+            //Debug.WriteLine(Environment.CurrentDirectory);
+            //Debug.WriteLine("--------------------------\n");
 
             // display the file content
             Debug.WriteLine("\n--------------------------");
-            System.Console.WriteLine("Contents of the file: {0}", text);
+            Debug.WriteLine(text);
             Debug.WriteLine("--------------------------\n");
 
-            // Display in the debugging section
-            Debug.WriteLine("\n--------------------------");
-            Debug.WriteLine("| Made it to this section");
-            Debug.WriteLine("--------------------------\n");
             return View();
         }
         //----------------------
