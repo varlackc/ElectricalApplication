@@ -36,7 +36,7 @@ namespace ElectricalApplication.Controllers
             Debug.WriteLine(text);
             Debug.WriteLine("--------------------------\n");
 
-            return View(text);
+            return View();
         }
         //----------------------
     }
